@@ -98,6 +98,7 @@ body {
 }
 .titulo {
   margin-bottom: 30px;
+  top:100px;
   width: 50%;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: yellow;
